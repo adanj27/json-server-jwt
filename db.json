@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuario de ejemplo",
+      "email": "usuario@example.com",
+      "password": "contrasena123"
+    },
+    {
+      "email": "correo@correo.com",
+      "password": "$2a$10$hh0LIIgUPTnAcu8W6XjD/.fuqWrfqcLiha98W/JF4yE6kvVGqYxZy",
+      "name": "AJ",
+      "id": 2
+    },
+    {
+      "email": "correo@gmail.com",
+      "password": "$2a$10$8vx5qmYu/SWcB8cRbiwC.uWd0oqY./xIO7W.dt3QqEpumnSOIlEtG",
+      "name": "Roberto ",
+      "id": 3
+    }
+  ]
+}
